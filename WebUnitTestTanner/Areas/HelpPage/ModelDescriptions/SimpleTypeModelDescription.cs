@@ -1,0 +1,6 @@
+namespace WebUnitTestTanner.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
