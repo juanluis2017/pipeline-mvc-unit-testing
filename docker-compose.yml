@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  webunittesttanner:
+    image: webunittesttanner
+    build:
+      context: .\WebUnitTestTanner
+      dockerfile: Dockerfile
